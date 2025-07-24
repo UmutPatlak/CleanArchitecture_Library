@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\entity\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\entity\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\entity\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\entity\\loan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\context\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|c:\\users\\umut_\\onedrive\\masa\u00FCst\u00FC\\yeni klas\u00F6r (4)\\libraryautomationclean\\libauto_cleanarch\\libauto_cleanarch\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{54EBA2A0-3F2C-4DFE-9BC6-E6C20F09681E}|LibAuto_CleanArch\\LibAuto_CleanArch.csproj|solutionrelative:libauto_cleanarch\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "LibAuto_CleanArch\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:19:59.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\App.config",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\App.config",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\App.config",
+              "RelativeToolTip": "LibAuto_CleanArch\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-24T12:12:46.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\packages.config",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\packages.config",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\packages.config",
+              "RelativeToolTip": "LibAuto_CleanArch\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-24T12:16:48.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Context\\Context.cs",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\Context\\Context.cs",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Context\\Context.cs",
+              "RelativeToolTip": "LibAuto_CleanArch\\Context\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:12:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loan.cs",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Entity\\Loan.cs",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\Entity\\Loan.cs",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Entity\\Loan.cs",
+              "RelativeToolTip": "LibAuto_CleanArch\\Entity\\Loan.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:57:21.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Entity\\Member.cs",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\Entity\\Member.cs",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Entity\\Member.cs",
+              "RelativeToolTip": "LibAuto_CleanArch\\Entity\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:56:03.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Entity\\Book.cs",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\Entity\\Book.cs",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Entity\\Book.cs",
+              "RelativeToolTip": "LibAuto_CleanArch\\Entity\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:52:35.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Form1.cs",
+              "RelativeDocumentMoniker": "LibAuto_CleanArch\\Form1.cs",
+              "ToolTip": "C:\\Users\\umut_\\OneDrive\\Masa\u00FCst\u00FC\\Yeni klas\u00F6r (4)\\LibraryAutomationClean\\LibAuto_CleanArch\\LibAuto_CleanArch\\Form1.cs [Design]",
+              "RelativeToolTip": "LibAuto_CleanArch\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:48:26.477Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

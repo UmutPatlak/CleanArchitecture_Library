@@ -1,0 +1,14 @@
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\bin\Debug\LibAuto_CleanArch.exe.config
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\bin\Debug\LibAuto_CleanArch.exe
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\bin\Debug\LibAuto_CleanArch.pdb
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\bin\Debug\EntityFramework.dll
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\bin\Debug\EntityFramework.xml
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.csproj.AssemblyReference.cache
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.Properties.Resources.resources
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.csproj.GenerateResource.cache
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.csproj.CoreCompileInputs.cache
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_.55501862.Up2Date
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.exe
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.pdb
