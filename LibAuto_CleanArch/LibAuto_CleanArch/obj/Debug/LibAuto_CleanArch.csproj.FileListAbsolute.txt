@@ -12,3 +12,7 @@ C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAu
 C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_.55501862.Up2Date
 C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.exe
 C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.pdb
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.UI.Forms.EmployeeBookForm.resources
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.UI.Forms.LoanForm.resources
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.Migrations.InitialCreate.resources
+C:\Users\umut_\OneDrive\Masaüstü\Yeni klasör (4)\LibraryAutomationClean\LibAuto_CleanArch\LibAuto_CleanArch\obj\Debug\LibAuto_CleanArch.UI.Forms.MemberBookForm.resources
